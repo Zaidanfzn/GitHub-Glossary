@@ -1,4 +1,4 @@
-### 2. *Mengupdate Repositori Utama dengan Perubahan dari Repositori Fork Lokal Anda*
+### **4. Mengupdate Repositori Utama dengan Perubahan dari Repositori Fork Lokal Anda**
 
 Jika Anda telah membuat perubahan di repositori fork lokal Anda dan ingin mengupdate repositori utama:
 

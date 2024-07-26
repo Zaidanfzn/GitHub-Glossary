@@ -1,4 +1,4 @@
-### 1. *Mengupdate Repositori Fork Lokal Anda dengan Perubahan dari Repositori Utama*
+### **3. Mengupdate Repositori Fork Lokal Anda dengan Perubahan dari Repositori Utama**
 
 Ketika ada perubahan di repositori utama yang Anda butuhkan di repositori fork lokal Anda, berikut adalah langkah-langkahnya:
 
