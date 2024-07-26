@@ -66,4 +66,4 @@ We welcome contributions! If you have any additional guides or improvements to e
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-Happy learning and coding!
+**Happy learning and coding!**
