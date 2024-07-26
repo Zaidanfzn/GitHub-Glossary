@@ -1,6 +1,6 @@
 ### **1. Membuat Repositori Menggunakan GitHub CLI**
 
-### *Langkah 1: Instal GitHub CLI*
+#### *Langkah 1: Instal GitHub CLI*
 
 1. **Unduh GitHub CLI**
    - Buka [situs GitHub CLI](https://cli.github.com/) dan unduh installer sesuai dengan sistem operasi Anda.
@@ -8,7 +8,7 @@
 2. **Instal GitHub CLI**
    - Jalankan installer yang sudah diunduh dan ikuti petunjuk instalasi.
 
-### *Langkah 2: Verifikasi Instalasi*
+#### *Langkah 2: Verifikasi Instalasi*
 
 1. **Buka Terminal**
    - Buka terminal atau command prompt.
@@ -23,9 +23,9 @@
      ```bash
      bash: gh: command not found
      ```
-     Maka Anda harus menambahkan GitHub CLI ke PATH di Git Bash. Tutorial terdapat pada file `002-add-github-climd`.
+     Maka Anda harus menambahkan GitHub CLI ke PATH di Git Bash. Tutorial terdapat pada file `002-add-github-cli.md`.
 
-### *Langkah 3: Login ke GitHub*
+#### *Langkah 3: Login ke GitHub*
 
 1. **Login ke GitHub Menggunakan GitHub CLI**
    - Jalankan perintah berikut untuk login ke akun GitHub Anda:
@@ -34,7 +34,7 @@
      ```
    - Ikuti petunjuk yang muncul di terminal untuk menyelesaikan proses login.
 
-### *Langkah 4: Membuat Repositori Privat atau Public dan Push*
+#### *Langkah 4: Membuat Repositori Privat atau Public dan Push*
 
 1. **Inisialisasi Git di Folder Lokal**
    - Buka terminal atau command prompt.

@@ -1,7 +1,7 @@
 ### **2. Menambahkan GitHub CLI ke PATH di Git Bash**
 
 1. **Temukan Lokasi Instalasi GitHub CLI**
-   - Buka PowerShell dan jalankan perintah berikut untuk menemukan lokasi instalasi `gh`:
+   - Buka **PowerShell** dan jalankan perintah berikut untuk menemukan lokasi instalasi `gh`:
      ```powershell
      Get-Command gh
      ```
@@ -11,7 +11,7 @@
      ```
 
 2. **Tambahkan Lokasi Instalasi ke PATH di Git Bash**
-   - Buka Git Bash.
+   - Buka **Git Bash**.
    - Buka file `.bashrc` atau `.bash_profile` di editor teks menggunakan perintah berikut:
      ```bash
      nano ~/.bashrc
