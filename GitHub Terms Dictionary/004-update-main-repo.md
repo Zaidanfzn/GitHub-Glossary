@@ -6,24 +6,28 @@ Jika Anda telah membuat perubahan di repositori fork lokal Anda dan ingin mengup
 
 1. *Cek Status Perubahan:*
    - Pastikan tidak ada perubahan yang belum di-commit:
-     sh
+     ```sh
      git status
+     ```
      
 
 2. *Tambahkan dan Commit Perubahan:*
    - Tambahkan file yang telah diubah atau ditambahkan:
-     sh
+     ```sh
      git add .
+     ```
      
    - Commit perubahan dengan pesan yang jelas:
-     sh
+     ```sh
      git commit -m "Deskripsi perubahan"
+     ```
      
 
 3. *Push Perubahan ke Repositori Fork di GitHub:*
    - Kirim perubahan ke repositori fork Anda di GitHub:
-     sh
+     ```sh
      git push origin main
+     ```
      
 
 #### B. *Buat Pull Request dari Repositori Fork ke Repositori Utama*
